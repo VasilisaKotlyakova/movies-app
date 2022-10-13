@@ -1,0 +1,22 @@
+.movies {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    row-gap: 2rem;
+    column-gap: 3rem;
+}
+.spin {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100rem;
+    margin-left: 3rem;
+    margin-bottom: 10rem;
+    margin-top: 10rem;
+}
+
+@media screen and (max-width: 1000px) {
+    .movies {
+        grid-template-columns: 1fr;
+    }
+}

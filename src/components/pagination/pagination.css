@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem !important;
+}
+.ant-pagination * {
+    border: none !important;
+}
+.ant-pagination-item-active {
+    background: #1890ff !important;
+    border-radius: 4px !important;
+}
+.ant-pagination-item-active a {
+    color: white !important;
+}
+.ant-pagination-item {
+    color: rgba(0, 0, 0, 0.65) !important;
+}

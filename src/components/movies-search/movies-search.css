@@ -1,0 +1,20 @@
+.header__search {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    padding: 0.5rem 0 0.5rem 0.7rem;
+    width: 90%;
+    outline: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 1.3rem !important;
+    margin-bottom: 1.3rem !important;
+    margin: 0 auto;
+    display: flex;
+}
+
+.header__search::placeholder {
+    color: rgba(0, 0, 0, 0.25);
+    font-size: 16px;
+    line-height: 22px;
+}
