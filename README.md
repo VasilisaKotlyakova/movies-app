@@ -1,6 +1,6 @@
 # Project 
 
-https://movies-app-blue-gamma.vercel.app
+https://movies-app-vasilisakotlyakova.vercel.app/
 
 # Getting Started with Create React App
 
