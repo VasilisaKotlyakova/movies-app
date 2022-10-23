@@ -38,6 +38,7 @@ body {
     margin-top: 1rem !important;
     margin-bottom: 1rem !important;
 }
+
 @media (max-width: 599px) {
     .container {
         width: 100%;

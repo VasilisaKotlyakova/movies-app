@@ -1,4 +1,5 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
+
 export const GenresContext = React.createContext();
 
 export default class Genres extends Component {
@@ -20,4 +21,3 @@ export default class Genres extends Component {
     );
   }
 }
-
